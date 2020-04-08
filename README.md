@@ -1,5 +1,5 @@
-# Classic Computer Science Problems in Python
-This repository contains source code to accompany the book *Classic Computer Science Problems in Python* by David Kopec. You will find the source organized by chapter. **As you read the book, each code listing contains a file name that corresponds to a file in this repository.**
+# Algorithmen in Python
+Dieses Repository enthält den Quellcode zum Buch *Algorithmen in Python* (Originaltitel *Classic Computer Science Problems in Python*) von David Kopec in der deutschen Übersetzung von Sascha Kersken. **Während Sie das Buch lesen, enthält jedes Codelisting einen Dateinamen, der einer Datei in diesem Repository entspricht.**
 
 ![Classic Computer Science Problems in Python Cover](cover.jpg)
 
